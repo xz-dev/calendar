@@ -12,4 +12,4 @@ This is often very opaque and impossible for users and investors. expected. So I
 
 因此我决定公开我自己的大部分日程安排。
 
-[Google Calendar](https://calendar.google.com/calendar/u/1?cid=eGlhbmd6aGVkZXZAZ21haWwuY29t)
+[Google Calendar](https://calendar.google.com/calendar/embed?src=xiangzhedev%40gmail.com&ctz=UTC)
