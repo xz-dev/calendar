@@ -4,7 +4,7 @@ Because I think the most important and missing thing in open source projects is 
 
 In many cases, developers have no way to fully predict their own lives, so they delay development plans.
 
-This is often very opaque and impossible for users and investors. expected. So I've decided to make most of my own schedule public.
+This is often very opaque and impossible for users and investors. expected. So I've decided to make most of my own schedule public at here.
 
 因为我认为开源项目最重要也是最缺失的就是开发计划的透明性。
 
@@ -12,4 +12,6 @@ This is often very opaque and impossible for users and investors. expected. So I
 
 因此我决定公开我自己的大部分日程安排。
 
-[Google Calendar](https://calendar.google.com/calendar/embed?src=xiangzhedev%40gmail.com&ctz=UTC)
+Google Calendar: [https://calendar.google.com/calendar/embed?src=xiangzhedev%40gmail.com&ctz=UTC](https://calendar.google.com/calendar/embed?src=xiangzhedev%40gmail.com&ctz=UTC)
+
+Google Calender iCal: [https://calendar.google.com/calendar/ical/xiangzhedev%40gmail.com/public/basic.ics](https://calendar.google.com/calendar/ical/xiangzhedev%40gmail.com/public/basic.ics)
